@@ -1,0 +1,31 @@
+/* Created by: Katie
+* Created on: May 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit5-01-EvenNumberDisplay
+*/
+
+h1 {
+  background-color: rgb(87, 77, 104);
+  color: rgb(211, 223, 184);
+  border: 5px double rgb(211, 223, 184);
+  border-radius: 15px;
+}
+
+body {
+  background-color: rgb(242, 232, 109);
+}
+
+p {
+  background-color: rgb(163, 133, 96);
+  color: cornsilk;
+}
+
+label {
+  background-color: rgb(163, 133, 96);
+  color: cornsilk;
+}
+
+#counted-numbers {
+  background-color: rgb(198, 161, 91);
+  color: cornsilk;
+}
